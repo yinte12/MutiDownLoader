@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">library</string>
+    <string name="file_not_exist">文件不存在</string>
+    <string name="SD_not_exist">SD卡不可用</string>
+</resources>
